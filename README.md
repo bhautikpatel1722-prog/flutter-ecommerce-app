@@ -15,8 +15,5 @@ A mobile e-commerce application built using Flutter & GetX.
 - GetX (State Management)
 - REST API (DummyJSON)
 
-## Screenshots
-(Add screenshots here)
-
 ## Author
 Bhautik Patel
